@@ -2,7 +2,8 @@
 
 Concepts
 
-1> Imperative vs Functional programming
+**Program 1**
+Imperative vs Functional programming
 
 Here are the important points:
 
